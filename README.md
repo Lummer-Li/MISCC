@@ -1,2 +1,11 @@
-# DEAMVC
-Dual-level enhanced aggregation for deep multi-view clustering (NeurIPS 2024.5.22)
+# Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning
+This repo contains the demo code and data of our paper Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning
+> URL: [Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning](xx.com)
+<img src="./MISCC.pdf">
+
+
+# Reference
+If our work is beneficial for your research, please consider citing:
+```
+
+```
