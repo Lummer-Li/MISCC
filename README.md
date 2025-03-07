@@ -1,7 +1,7 @@
 # Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning
 This repo contains the demo code and data of our paper Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning
 > URL: [Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning](xx.com)
-<img src="[./MISCC.pdf](https://github.com/Lummer-Li/MISCC/blob/main/MISCC.pdf)">
+<img src="https://github.com/Lummer-Li/MISCC/blob/main/MISCC.pdf">
 
 
 # Reference
