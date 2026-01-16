@@ -77,7 +77,7 @@ We conduct extensive experiments on eleven widely-used multi-view datasets, incl
 
 ## Getting Started🚀
 ### Data Preparation
-The dataset should be organised as follows, taking MSRC_v1 as an example:
+The dataset should be organised as follows, taking BBCSport as an example:
 ```text
 BBCSport
 ├── X
