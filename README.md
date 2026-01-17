@@ -94,7 +94,16 @@ BBCSport
 
 ## Cite our work📝
 ```bibtex
-
+@ARTICLE{li2026deep,
+  author={Li, Pengyuan and Chang, Dongxia and Wang, Yiming and Liu, Man and Kong, Zisen and Kong, Linhua and Zhao, Yao},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Deep Multi-View Clustering With Intra-View Similarity and Cross-View Correlation Learning}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Multi-view Clustering;Representation Learning;Deep Clustering},
+  doi={10.1109/TMM.2026.3654390}}
 ```
 
 ## License📜
