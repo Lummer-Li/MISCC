@@ -13,7 +13,7 @@
 <p align="center">
   <!-- IEEE TMM Badge -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/IEEE TMM-2025-blueviolet.svg?style=flat-square" alt="IEEE TMM">
+    <img src="https://img.shields.io/badge/IEEE TMM-2026-blueviolet.svg?style=flat-square" alt="IEEE TMM">
   </a>
   <!-- arXiv Badge -->
   <!-- <a href="https://arxiv.org/abs/2412.08345" target="_blank">
